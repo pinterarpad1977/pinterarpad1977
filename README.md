@@ -1,7 +1,9 @@
 Hi, I’m @pinterarpad1977 (Arpad he/him) based in Europe, Hungary.
 
-I’m interested in Python and I now started to learn JavaScript too
+I’m interested in Python and I now started to learn JavaScript too.
+
 My experience is mostly data related (Pandas, NLP, NumPy, some SQL)
+
 Unfortunately I cannot learn on the job, I am a data analyst, but working solely on Power BI.
  
 I’m currently intermadiate in Python but I am still at a novice level in JavaScript.
